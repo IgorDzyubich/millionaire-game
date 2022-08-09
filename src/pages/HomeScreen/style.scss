@@ -1,0 +1,75 @@
+@import '../../styles/mixins.scss';
+@import '../../styles/variables.scss';
+
+.home {
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 100%;
+    padding: 0 1rem;
+    @include flex(center, center);
+
+    &__section {
+        min-width: 70%;
+        @include flex(space-between, center);
+
+        @media (max-width: 1018px) {
+            flex-direction: column;
+        }
+    }
+
+    &__hand {
+        margin-right: 2rem;
+
+        @media (max-width: 1018px) {
+            margin-bottom: 2.5rem;
+            margin-right: 0;
+        }
+
+        @media (max-width: 510px) {
+            width: 300px;
+        }
+    }
+
+    &__inner {
+        display: flex;
+        flex-direction: column;
+        height: 230px;
+        width: 40%;
+
+        @media (max-width: 1018px) {
+            width: 100%;
+            @include flex($align: center);
+        }
+    }
+
+    &__title {
+        flex: 1;
+        font-size: 56px;
+        font-weight: 600;
+        
+        @media (max-width: 1018px) {
+            font-size: 32px;
+            text-align: center;
+        }
+    }
+
+    &__score {
+        color: $text-color;
+        opacity: 0.5;
+        font-size: 32px;
+        font-weight: 600;
+
+        @media (max-width: 1018px) {
+            font-size: 18px;
+        }
+    }
+
+    &__button {
+        @include home-button();
+
+        @media (max-width: 1018px) {
+            width: 100%;
+        }
+    }
+}

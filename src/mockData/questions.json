@@ -1,0 +1,276 @@
+[{
+    "question":"In what children's game are participants chased by someone designated \"It\"?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"Tag"
+        },
+        {
+            "letter":"B",
+            "answer":"Simon Says"
+        },
+        {
+            "letter":"C",
+            "answer":"Charades"
+        },
+        {
+            "letter":"D",
+            "answer":"Hopscotch"
+        }
+    ],
+    "correct":["A"],
+    "reward": "$500"
+},
+{
+    "question":"On a radio, stations are changed by using what control?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"Tuning"
+        },
+        {
+            "letter":"B",
+            "answer":"Volume"
+        },
+        {
+            "letter":"C",
+            "answer":"Bass"
+        },
+        {
+            "letter":"D",
+            "answer":"Treble"
+        }
+    ],
+    "correct":["A"],
+    "reward": "$1,000"
+},
+{
+    "question":"Which material is most dense?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"Silver"
+        },
+        {
+            "letter":"B",
+            "answer":"Styrofoam"
+        },
+        {
+            "letter":"C",
+            "answer":"Butter"
+        },
+        {
+            "letter":"D",
+            "answer":"Gold"
+        }
+    ],
+    "correct":["D"],
+    "reward": "$2,000"
+},
+{
+    "question":"Which state in the United States is largest by area?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"Alaska"
+        },
+        {
+            "letter":"B",
+            "answer":"California"
+        },
+        {
+            "letter":"С",
+            "answer":"Texas"
+        },
+        {
+            "letter":"D",
+            "answer":"Hawaii"
+        }
+    ],
+    "correct":["A"],
+    "reward": "$4,000"
+},
+{
+    "question":"What is Aurora Borealis commonly known as?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"Fairy Dust"
+        },
+        {
+            "letter":"B",
+            "answer":"Northern Lights"
+        },
+        {
+            "letter":"C",
+            "answer":"Book of ages"
+        },
+        {
+            "letter":"D",
+            "answer":"a Game of Thrones main character"
+        }
+    ],
+    "correct":["B"],
+    "reward": "$8,000"
+},
+{
+    "question":"Galileo was an Italian astronomer who",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"developed the telescope"
+        },
+        {
+            "letter":"B",
+            "answer":"discovered four satellites of Jupiter"
+        },
+        {
+            "letter":"C",
+            "answer":"discovered that the movement of pendulum produces a regular time measurement"
+        },
+        {
+            "letter":"D",
+            "answer":"All of the above"
+        }
+    ],
+    "correct":["D"],
+    "reward": "$16,000"
+},
+{
+    "question":"Exposure to sunlight helps a person improve his health because",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"the infrared light kills bacteria in the body"
+        },
+        {
+            "letter":"B",
+            "answer":"resistance power increases"
+        },
+        {
+            "letter":"C",
+            "answer":"the pigment cells in the skin get stimulated and produce a healthy tan"
+        },
+        {
+            "letter":"D",
+            "answer":"the ultraviolet rays convert skin oil into Vitamin D"
+        }
+    ],
+    "correct":["D"],
+    "reward": "$32,000"
+},
+{
+    "question":"Sir Thomas Fearnley Cup is awarded to",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"a club or a local sport association for remarkable achievements"
+        },
+        {
+            "letter":"B",
+            "answer":"amateur athlete, not necessarily an Olympian"
+        },
+        {
+            "letter":"C",
+            "answer":"National Olympic Committee for outstanding work"
+        },
+        {
+            "letter":"D",
+            "answer":"None of the above"
+        }
+    ],
+    "correct":["A"],
+    "reward": "$64,000"
+},
+{
+    "question":"Oscar Awards were instituted in",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"1968"
+        },
+        {
+            "letter":"B",
+            "answer":"1929"
+        },
+        {
+            "letter":"C",
+            "answer":"1901"
+        },
+        {
+            "letter":"D",
+            "answer":"1965"
+        }
+    ],
+    "correct":["B"],
+    "reward": "$125,000"
+},
+{
+    "question":"When did Margaret Thatcher became the first female Prime Minister of Britain?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"1998"
+        },
+        {
+            "letter":"B",
+            "answer":"1989"
+        },
+        {
+            "letter":"C",
+            "answer":"1979"
+        },
+        {
+            "letter":"D",
+            "answer":"1800"
+        }
+    ],
+    "correct":["C"],
+    "reward": "$250,000"
+},
+{
+    "question":"When is the International Workers' Day?",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"15th April"
+        },
+        {
+            "letter":"B",
+            "answer":"12th December"
+        },
+        {
+            "letter":"C",
+            "answer":"1st May"
+        },
+        {
+            "letter":"D",
+            "answer":"1st August"
+        }
+    ],
+    "correct":["C"],
+    "reward": "$500,000"
+},
+{
+    "question":"The American General who led the revolt against the British and declared American independence was",
+    "answers":[
+        {
+            "letter":"A",
+            "answer":"George Washington"
+        },
+        {
+            "letter":"B",
+            "answer":"Bill Clinton"
+        },
+        {
+            "letter":"C",
+            "answer":"George Bush"
+        },
+        {
+            "letter":"D",
+            "answer":"None of the above"
+        }
+    ],
+    "correct":["A"],
+    "reward": "$1,000,000"
+}]

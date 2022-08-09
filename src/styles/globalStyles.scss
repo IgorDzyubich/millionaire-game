@@ -1,0 +1,43 @@
+@import './variables.scss';
+
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+    overflow: hidden;
+
+    @media (max-width: 1018px) {
+        font-size: 17px;
+    }
+}
+
+*, 
+*::after,
+*::before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    font-family: $font;
+    border: 0;
+    cursor: pointer;
+    outline: none;
+    background-color: #fff;
+    min-height: 3.2rem;
+    padding: 0 .5rem;
+}
+
+body {
+    font-family: $font;
+    color: $text-color;
+    overflow: hidden;
+}
+
+main {
+    height: 100vh;
+}
+
+ul {
+    list-style-type: none;
+}
