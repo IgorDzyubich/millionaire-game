@@ -1,6 +1,7 @@
 {
   "name": "millionaire-game",
   "version": "0.1.0",
+  "homepage": "https://igordzyubich.github.io/millionaire-game",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
@@ -66,7 +67,9 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
     "lint": "eslint src",
-    "lint-fix": "eslint src --quiet --fix"
+    "lint-fix": "eslint src --quiet --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -155,6 +158,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
+    "gh-pages": "^4.0.0",
     "husky": "^8.0.1",
     "prettier": "^2.7.1",
     "sass": "^1.54.3",
